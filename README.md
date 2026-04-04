@@ -35,7 +35,7 @@ type(env).render = lambda self: rsv.send_state_to_rocketsimvis(self._prev_state)
 ```
 
 ## Running the visualizer
-Just run `MAIN.bat` (if on Windows), or `main.py`.
+Just run `MAIN.bat` (if on Windows), or `RUN.sh` if on Linux.
 
 ## Is This Official?
 No, there are many other cool visualizers available for RocketSim, I just thought I'd make mine open-source for those who want it.
